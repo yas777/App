@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="button">Form</string>
+    <string name="option1">Sanitation</string>
+    <string name="option2">Water Supply</string>
+    <string name="option3">Office Work</string>
+    <string name="option4">Current Supply</string>
+    <string name="person_name"><font size="10">Name</font></string>
+    <string name="date"><font size="10">Date</font></string>
+</resources>
